@@ -1,12 +1,13 @@
-baseURL: https://example.com
+baseURL: https://teresaclarke.github.io/
 languageCode: en-uk
 defaultContentLanguage: en
-title: Cupper
+title: Teresa Clarke Accountancy Tutoring
 theme: cupper-hugo-theme
 enableGitInfo: true
 
 taxonomies:
   tag: tags
+  series: series
 
 permalinks:
   post: /:filename/
@@ -15,20 +16,14 @@ imaging:
   quality: 99
 
 params:
-  description: Teresa Clarke
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
-  logoAlt: Teresa Clarke profile picture
+  navTitleText: Teresa Clarke Accountancy Tutoring
   customCss:
-    - css/custom_01.css
-    - css/custom_02.css
-  customJs:
-    - js/custom_01.js
-    - js/custom_02.js
+    - css/main.css
 
 menu:
   nav:
@@ -41,12 +36,9 @@ menu:
     - name: Tags
       url: /tags/
       weight: 3
-    - name: About
-      url: /about/
+    - name: Series
+      url: /series/
       weight: 4
-    - name: Social
-      url: /index.xml
-      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
