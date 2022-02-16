@@ -6,6 +6,11 @@ h2 {
 	font-size: 0.9rem;
 }
 
+.wrapper, .intro-and-nav {
+	border: 10px solid hsl(0, 0%, 50%);
+	border-style: inset;
+}
+
 .intro-and-nav h1 {
 	margin-block:  32px;
 }

@@ -8,6 +8,5 @@ tags:
 - AAT Level 3
 - mock exams with mark scheme
 series:
-- Accountancy Revision Workbooks
 - AAT Level 3
 ---

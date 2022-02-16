@@ -7,8 +7,6 @@ tags:
 - AAT Level 1
 - AAT Level 2
 series:
-- Accountancy Revision Workbooks
 - AAT Level 1
 - AAT Level 2
-- Bookkeeping
 ---

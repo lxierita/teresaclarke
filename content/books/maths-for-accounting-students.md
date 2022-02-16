@@ -1,9 +1,11 @@
 ---
-title: "Maths for Accounting Students"
+title: "Maths for Accounting Students Workbook"
 AmazonID: "B091FZ46YC"
 tags:
 - revision workbooks
 - maths
 series:
-- Accountancy Revision Workbooks
+- AAT Level 1
+- AAT Level 2
+- AAT Level 3
 ---
