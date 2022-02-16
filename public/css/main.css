@@ -1,0 +1,59 @@
+h1 {
+	font-size: 1.2rem;
+}
+
+h2 {
+	font-size: 0.9rem;
+}
+
+.intro-and-nav h1 {
+	margin-block:  32px;
+}
+
+#main {
+	height: min-content;
+}
+
+#main ul.withStyle {
+	margin:  16px 0;
+	list-style-type: initial;
+	list-style-position: inside;
+	font-weight: bold;
+	font-size: 0.9rem;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	color:  inherit;
+	border-bottom: none;
+	width:  100%;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div.socials {
+	margin-top: 16px;
+	font-size: 0.8rem;
+	width: 100%;
+}
+
+div.socials .social {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap:  6px;
+}
+
+div.socials img, div.socials span {
+	margin:  0;
+	display: block;
+}
+
+a.social {
+	margin-top: 4px;
+}
