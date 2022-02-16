@@ -8,6 +8,5 @@ tags:
 - management accounting
 - mock exams with mark scheme
 series:
-- Accountancy Revision Workbooks
 - AAT Level 3
 ---

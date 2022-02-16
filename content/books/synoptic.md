@@ -7,6 +7,5 @@ tags:
 - mock exams with mark scheme
 - synoptic
 series:
-- Accountancy Revision Workbooks
 - AAT Level 3
 ---
