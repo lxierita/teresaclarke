@@ -7,7 +7,7 @@ enableGitInfo: true
 
 taxonomies:
   tag: tags
-  series: series
+  levels: levels
 
 permalinks:
   post: /:filename/
@@ -27,14 +27,14 @@ params:
 
 menu:
   nav:
-    - name: Home
-      url: /
+    - name: About me
+      url: /about-me
       weight: 1
     - name: Books
       url: /books/
       weight: 2
-    - name: Series
-      url: /series/
+    - name: Levels
+      url: /levels/
       weight: 3
 
 markup:
