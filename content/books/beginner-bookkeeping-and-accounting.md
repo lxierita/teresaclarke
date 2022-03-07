@@ -6,7 +6,7 @@ tags:
 - revision workbooks
 - AAT Level 1
 - AAT Level 2
-series:
+levels:
 - AAT Level 1
 - AAT Level 2
 ---

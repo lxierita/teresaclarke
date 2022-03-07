@@ -6,6 +6,6 @@ tags:
 - AAT Level 3
 - mock exams with mark scheme
 - synoptic
-series:
+levels:
 - AAT Level 3
 ---

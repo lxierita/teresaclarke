@@ -62,3 +62,28 @@ div.socials img, div.socials span {
 a.social {
 	margin-top: 4px;
 }
+
+ul.book-list {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+li.book-item {
+	width: 100%;
+	border: 1px solid hsl(50, 12.5%, 90.6%);
+	border-radius: 15px;
+	box-shadow: 2px 3px 5px hsl(50, 12.5%, 90.6%);
+}
+
+a.book-link {
+	display: block;
+	width: 100%;
+	padding: 16px 32px;
+	border-radius: 15px;
+}
+
+a.book-link:hover, a.book-link:focus {
+	text-decoration: none;
+	background-color: hsl(50, 12.5%, 90.6%);
+}

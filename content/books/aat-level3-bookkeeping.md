@@ -8,6 +8,6 @@ tags:
   - advanced
   - bookkeeping
   - mock exams with mark scheme
-series:
+levels:
   - AAT Level 3
 ---

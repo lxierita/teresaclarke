@@ -28,7 +28,7 @@ params:
 menu:
   nav:
     - name: About me
-      url: /about-me
+      url: /about-me/
       weight: 1
     - name: Books
       url: /books/

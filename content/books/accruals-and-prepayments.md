@@ -6,6 +6,6 @@ tags:
 - revision workbooks
 - tips and guides
 - accruals and prepayments
-series:
+levels:
 - AAT Level 3
 ---

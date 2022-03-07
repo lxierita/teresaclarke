@@ -6,6 +6,6 @@ tags:
 - AAT Level 2
 - bookkeeping
 - flashcards
-series:
+levels:
 - AAT Level 2
 ---

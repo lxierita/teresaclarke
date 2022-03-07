@@ -4,7 +4,7 @@ AmazonID: "B091FZ46YC"
 tags:
 - revision workbooks
 - maths
-series:
+levels:
 - AAT Level 1
 - AAT Level 2
 - AAT Level 3

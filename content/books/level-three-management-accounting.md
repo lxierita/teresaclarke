@@ -7,6 +7,6 @@ tags:
 - AAT Level 3
 - management accounting
 - mock exams with mark scheme
-series:
+levels:
 - AAT Level 3
 ---

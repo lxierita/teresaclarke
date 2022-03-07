@@ -7,6 +7,6 @@ tags:
 - final accounts
 - AAT Level 3
 - mock exams with mark scheme
-series:
+levels:
 - AAT Level 3
 ---
